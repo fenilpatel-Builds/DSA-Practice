@@ -1,5 +1,5 @@
 # Problem: Binary Search
-# Time Complexity: O(log n)
+# Time Complexity : O(log n)
 
 def binary_search(arr, target):
     left, right = 0, len(arr)-1
